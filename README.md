@@ -1,5 +1,7 @@
 # FuckTorial
 A MWWM+Listener based app that randomly picks up 3 numbers.
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-09 at 12 40 10](https://user-images.githubusercontent.com/99130444/217776491-7cca9e02-943e-4c46-841a-8a639339d95e.png)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-09 at 12 40 35](https://user-images.githubusercontent.com/99130444/217776504-b18dcb51-dc0e-4036-a204-9e6c91057b30.png)
+ <img width="300" alt="7" src="https://user-images.githubusercontent.com/99130444/217785996-9682d649-824d-47e0-bfd8-e2297433a407.png">
+
+ <img width="300" alt="7" src="https://user-images.githubusercontent.com/99130444/217786104-0b2e8668-4a52-4e5a-9c89-3ff94cbc68f8.png">
+
